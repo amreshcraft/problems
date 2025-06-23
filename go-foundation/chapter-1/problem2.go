@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func main2() {
 	// number conversion
 	num := 20
 	bin := fmt.Sprintf("num : %b",num)
