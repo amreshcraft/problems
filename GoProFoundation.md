@@ -3,10 +3,10 @@
 ## 📂 **1. Formatting & Number Conversion – `fmt` & Format Specifiers**
 - [x] Difference between `%v`, `%+v`, `%#v` with example outputs.
 - [x] How to format integers as hexadecimal, binary, octal using `fmt.Sprintf`.
-- [ ] Convert float to string with precision control.
-- [ ] Create a custom string representation using `Stringer` interface.
-- [ ] Format using width and left/right alignment.
-- [ ] Format a number with leading zeros.
+- [x] Convert float to string with precision control.
+- [x] Create a custom string representation using `Stringer` interface.
+- [x] Format using width and left/right alignment.
+- [x] Format a number with leading zeros.
 - [ ] Format large numbers using commas (like 1,000,000).
 - [ ] Print struct with and without field names.
 - [ ] Explain `%t` format for boolean.
@@ -20,10 +20,10 @@
 ---
 
 ## 📂 **2. Crypto & Hashing – `crypto` Package**
-- [ ] Generate SHA-256 hash of a string.
-- [ ] Generate MD5 hash of a file.
-- [ ] Hash a password using bcrypt.
-- [ ] Verify bcrypt password.
+- [x] Generate SHA-256 hash of a string.
+- [x] Generate MD5 hash of a file.
+- [x] Hash a password using bcrypt.
+- [x] Verify bcrypt password.
 - [ ] Generate random secure tokens.
 - [ ] Generate HMAC using SHA-512.
 - [ ] Explain difference between SHA-256 and HMAC-SHA-256.
@@ -79,7 +79,7 @@
 ---
 
 ## 📂 **5. Design Patterns in Go**
-- [ ] Build Singleton using sync.Once.
+- [x] Build Singleton using sync.Once.
 - [ ] Implement Factory Pattern in Go.
 - [ ] Implement Abstract Factory Pattern.
 - [ ] Build Observer Pattern using channels.
